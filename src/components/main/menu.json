@@ -1,0 +1,16 @@
+[
+  {
+    "menu_id": 1,
+    "menu_name": "员工资料",
+    "menu_icon": "",
+    "menu_url": "",
+    "children_list": [
+      {
+        "menu_id": 1.1,
+        "menu_name": "基本资料",
+        "menu_url": "userGuide",
+        "parent_menu_id": 1
+      }
+    ]
+  }
+]
