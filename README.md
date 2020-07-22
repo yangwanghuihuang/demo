@@ -1,7 +1,7 @@
 ## Getting started
 ```bush
 # clone the project
-git clone https://github.com/Nerqi/report-web.git
+git clone https://github.com/yangwanghuihuang/demo.git
 
 // install dependencies
 npm install
